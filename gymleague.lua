@@ -1,5 +1,5 @@
 local codes = {"5KLikes", "10KLikes", "1MVisits", "SORRY"}
-for i,v, in pairs(codes) do
+for i,v in pairs(codes) do
 local args = {
     [1] = v
 }
